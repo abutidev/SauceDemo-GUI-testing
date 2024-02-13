@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "slz5AZ/1PZxvvw/GelzVH3wMYUe/Sb8WVQbaszrAIGmwgpD1VJ5zCGVhbtEiW3tMFZtHjQlxO4LoupOb0rx+Zw==",
+  "success": true,
+  "projectFilePath": "/home/tukelo/Github/SwagLabs/test/test.csproj",
+  "expectedPackageFiles": [
+    "/home/tukelo/.nuget/packages/anglesharp/1.0.4/anglesharp.1.0.4.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/microsoft.net.test.sdk/16.11.0/microsoft.net.test.sdk.16.11.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/microsoft.testplatform.objectmodel/16.11.0/microsoft.testplatform.objectmodel.16.11.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/microsoft.testplatform.testhost/16.11.0/microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/nuget.frameworks/5.0.0/nuget.frameworks.5.0.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/nunit3testadapter/4.0.0/nunit3testadapter.4.0.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/selenium.webdriver/4.17.0/selenium.webdriver.4.17.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/sharpziplib/1.4.2/sharpziplib.1.4.2.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512",
+    "/home/tukelo/.nuget/packages/webdrivermanager/2.17.1/webdrivermanager.2.17.1.nupkg.sha512"
+  ],
+  "logs": []
+}
