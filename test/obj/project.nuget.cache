@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "slz5AZ/1PZxvvw/GelzVH3wMYUe/Sb8WVQbaszrAIGmwgpD1VJ5zCGVhbtEiW3tMFZtHjQlxO4LoupOb0rx+Zw==",
+  "dgSpecHash": "VJ3OXClROCN2M3M+q8tZj3Vys80NRPFh2W7otDe7J8jrzpp+Qroer9TS5NyX3ut20i5G3+m+brmj4SlR4LF60w==",
   "success": true,
-  "projectFilePath": "/home/tukelo/Github/SwagLabs/test/test.csproj",
+  "projectFilePath": "/home/tukelo/Github/SauceDemo-GUI-testing/test/test.csproj",
   "expectedPackageFiles": [
     "/home/tukelo/.nuget/packages/anglesharp/1.0.4/anglesharp.1.0.4.nupkg.sha512",
     "/home/tukelo/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",

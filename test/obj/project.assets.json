@@ -1827,11 +1827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tukelo/Github/SwagLabs/test/test.csproj",
+      "projectUniqueName": "/home/tukelo/Github/SauceDemo-GUI-testing/test/test.csproj",
       "projectName": "test",
-      "projectPath": "/home/tukelo/Github/SwagLabs/test/test.csproj",
+      "projectPath": "/home/tukelo/Github/SauceDemo-GUI-testing/test/test.csproj",
       "packagesPath": "/home/tukelo/.nuget/packages/",
-      "outputPath": "/home/tukelo/Github/SwagLabs/test/obj/",
+      "outputPath": "/home/tukelo/Github/SauceDemo-GUI-testing/test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/tukelo/.nuget/NuGet/NuGet.Config"

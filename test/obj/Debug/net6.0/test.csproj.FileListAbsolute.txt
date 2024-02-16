@@ -106,3 +106,11 @@
 /home/tukelo/Github/SwagLabs/test/obj/Debug/net6.0/ref/test.dll
 /home/tukelo/Github/SwagLabs/test/obj/Debug/net6.0/test.pdb
 /home/tukelo/Github/SwagLabs/test/obj/Debug/net6.0/test.genruntimeconfig.cache
+/home/tukelo/Github/SauceDemo-GUI-testing/test/obj/Debug/net6.0/test.csproj.AssemblyReference.cache
+/home/tukelo/Github/SauceDemo-GUI-testing/test/obj/Debug/net6.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/tukelo/Github/SauceDemo-GUI-testing/test/obj/Debug/net6.0/test.AssemblyInfoInputs.cache
+/home/tukelo/Github/SauceDemo-GUI-testing/test/obj/Debug/net6.0/test.AssemblyInfo.cs
+/home/tukelo/Github/SauceDemo-GUI-testing/test/obj/Debug/net6.0/test.csproj.CoreCompileInputs.cache
+/home/tukelo/Github/SauceDemo-GUI-testing/test/obj/Debug/net6.0/test.dll
+/home/tukelo/Github/SauceDemo-GUI-testing/test/obj/Debug/net6.0/ref/test.dll
+/home/tukelo/Github/SauceDemo-GUI-testing/test/obj/Debug/net6.0/test.pdb
